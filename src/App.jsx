@@ -1,9 +1,14 @@
+import NavBar from "./Components/NavBar/NavBar"
+import DaisyNav from "./Components/DaisyNav/DaisyNav"
 
 function App() {
 
   return (
     <div>
-      <h1 className="text-center">ki obostha?</h1>
+      <NavBar></NavBar>
+     {/* <DaisyNav></DaisyNav> */}
+
+      
       
     </div>
   )
