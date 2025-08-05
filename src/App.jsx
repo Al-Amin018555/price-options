@@ -1,5 +1,6 @@
 import NavBar from "./Components/NavBar/NavBar"
 import DaisyNav from "./Components/DaisyNav/DaisyNav"
+import PriceOptions from "./Components/PriceOptions/PriceOptions"
 
 function App() {
 
@@ -7,7 +8,7 @@ function App() {
     <div>
       <NavBar></NavBar>
      {/* <DaisyNav></DaisyNav> */}
-
+    <PriceOptions></PriceOptions>
       
       
     </div>
